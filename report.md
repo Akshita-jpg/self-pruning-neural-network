@@ -53,7 +53,7 @@ Total Loss = Classification Loss + λ × Sparsity Loss
 
 ## 5. Gate Distribution
 
-![Gate Distribution](images/histogram.png)
+![Gate Distribution](histogram.png)
 
 Observation:
 
